@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669764458821",
+    "project_id": "pyq-app",
+    "storage_bucket": "pyq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669764458821:android:234443b0489bd58a61862c",
+        "android_client_info": {
+          "package_name": "com.example.pyq_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669764458821-ek6e8l4ighhlr7vu9fsummtfdlmtfoje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pyq_app",
+            "certificate_hash": "9007dc3fe0e178efe6d7add3479caa0d6c53ac07"
+          }
+        },
+        {
+          "client_id": "669764458821-bm7prjucpgfbs0e05o42opr306bi47mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcVHNfeHTwDEm1yFQ7SJyStqKC8aHDkcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669764458821-bm7prjucpgfbs0e05o42opr306bi47mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
